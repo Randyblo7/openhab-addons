@@ -71,7 +71,7 @@
     <ohc.version>3.4.0-SNAPSHOT</ohc.version>
     <bnd.version>6.4.0</bnd.version>
     <commons.net.version>3.9.0</commons.net.version>
-    <eea.version>2.2.1</eea.version>
+    <eea.version>2.4.0</eea.version>
     <jackson.version>2.12.7</jackson.version>
     <karaf.version>4.3.7</karaf.version>
     <netty.version>4.1.72.Final</netty.version>
