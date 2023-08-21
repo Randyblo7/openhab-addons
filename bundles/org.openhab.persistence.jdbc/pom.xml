@@ -20,7 +20,7 @@
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <hikari.version>2.4.7</hikari.version>
+    <hikari.version>2.7.9</hikari.version>
     <dbutils.version>1.6</dbutils.version>
     <yank.version>3.4.0</yank.version>
 
