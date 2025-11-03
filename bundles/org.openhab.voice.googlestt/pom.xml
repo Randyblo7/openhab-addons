@@ -111,7 +111,7 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-alts</artifactId>
-      <version>1.43.2</version>
+      <version>1.63.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -141,13 +141,13 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-netty-shaded</artifactId>
-      <version>1.43.2</version>
+      <version>1.75.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-xds</artifactId>
-      <version>1.43.2</version>
+      <version>1.63.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
